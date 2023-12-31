@@ -1,0 +1,3 @@
+ETCBC4.v23 filter=lfs diff=lfs merge=lfs -text
+jvulgate.v02 filter=lfs diff=lfs merge=lfs -text
+nestle1904.v06 filter=lfs diff=lfs merge=lfs -text
